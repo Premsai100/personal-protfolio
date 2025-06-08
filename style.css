@@ -822,6 +822,15 @@ footer {
 }
 
 @media only screen and (max-width: 480px) {
+
+
+     .main-text img{
+        display: none; 
+
+    }
+    .container #sidemenu{
+        display: none; /* Adjust container padding for small screens */
+    }
     .main-text img{
         display: none; 
 
@@ -864,6 +873,13 @@ footer {
     .main-text img{
         display: none; 
 
+    }
+       .main-text img{
+        display: none; 
+
+    }
+    .container #sidemenu{
+        display: none; /* Adjust container padding for small screens */
     }
     .main-text p{
         text-align: center; 
