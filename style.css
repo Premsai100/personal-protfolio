@@ -820,6 +820,7 @@ footer {
     padding-top: 2rem;
     border-top: 1px solid #333;
 }
+
 @media only screen and (max-width: 480px) {
     .main-text img{
         display: none; 
